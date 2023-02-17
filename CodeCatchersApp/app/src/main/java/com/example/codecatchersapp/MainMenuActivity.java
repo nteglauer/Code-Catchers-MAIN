@@ -1,5 +1,5 @@
 package com.example.codecatchersapp;
 
-public class MainMenu {
+public class MainMenuActivity {
 
 }
